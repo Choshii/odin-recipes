@@ -1,1 +1,2 @@
 # odin-recipes
+This is a project that will consist about creating a basic recipe website, it will have an index page which will have links to a few recipes, i will use only html (for now, after i will work with CSS on it), using images, ordered lists, unordered lists and a few more things.
